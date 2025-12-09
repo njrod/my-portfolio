@@ -40,7 +40,6 @@ This Excel project tracks a flower shop's inventory levels, manages operational 
 ***
 #### Coded ATM
 - <img width="772" height="242" alt="Screenshot 2025-11-24 at 5 54 19 PM" src="https://github.com/user-attachments/assets/b872d857-456f-491c-bc3d-ebf2276af0d7" />
-o-image)
 
 - Initial project idea: 
 I came up with this because I wanted to test my coding skill, and was interested in ATMs. 
