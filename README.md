@@ -18,6 +18,7 @@ Loyola University Maryland
 
 #### Flower Shop Monthly Budget
 <img width="1202" height="638" alt="Screenshot 2025-12-08 at 7 42 09 PM" src="https://github.com/user-attachments/assets/3131e922-3e13-4a0b-bcf4-379e9f64d642" />
+
 - Initial project idea: 
 I came up with this idea because it seemed like a good way to test my skill in a professional enviornment. The project seemed like it could be applicable to many businesses.
 
@@ -40,6 +41,7 @@ This Excel project tracks a flower shop's inventory levels, manages operational 
 #### Coded ATM
 - <img width="772" height="242" alt="Screenshot 2025-11-24 at 5 54 19 PM" src="https://github.com/user-attachments/assets/b872d857-456f-491c-bc3d-ebf2276af0d7" />
 o-image)
+
 - Initial project idea: 
 I came up with this because I wanted to test my coding skill, and was interested in ATMs. 
 
@@ -59,6 +61,23 @@ I set out to create a working ATM, and I was succesful. In the future, I'd like 
 This MATLAB project simulates a functional ATM system with balance inquiries, cash withdrawals, deposits, and transaction history tracking, demonstrating programming logic and user interface design skills.
 
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Vector intersections
+<img width="782" height="462" alt="Screenshot 2025-12-08 at 8 22 37 PM" src="https://github.com/user-attachments/assets/1685644d-9a1d-4917-9df9-4b22277dec19" />
+
+- Initial project idea: 
+This problem solves finding the intersection point of two linear equations graphically and numerically. It has applications in education and other fields.
+
+- Tools I used: 
+I mainly used matlab.
+
+- Challenges I faced:
+The hardest part was creating the vectors and calculating Y values since MATLAB syntax is still new to me. I fixed it by testing my code in small steps and checking that the graph showed the intersection point correctly.
+
+- Other Resources: 
+I used online resources.
+
+- Result:
+I set out to graph two linear equations and find their intersection point, which I successfully achieved by creating the vectors and plotting them in MATLAB. If I could improve this project, I would add features like automatically labeling the intersection coordinates on the graph
+
+- Summary:
+This MATLAB project graphs two linear equations to visually identify their intersection point using vector operations, demonstrating fundamental programming skills in creating domains, calculating Y values, and generating plots with proper labeling.
