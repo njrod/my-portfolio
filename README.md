@@ -1,3 +1,4 @@
+![Banner](images/banner.jpg)
 # my-portfolio
 This is the portfolio of Natalie R., a student at Loyola University Maryland.
 # Natalie Rodriguez
