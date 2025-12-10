@@ -2,4 +2,7 @@ title: Natalie Rodriguez
 # logo: /assets/img/headshot_circle.png
 # description: text below image
 # show_downloads: true
-theme: jekyll_theme_minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
