@@ -9,9 +9,9 @@ With skills in data analysis, project management, public speaking, and collabora
 
 My superior skill set, commitment to perfection, and passion for math make me as a valuable asset.  In my spare time, I like to read and solve sudoku puzzles. 
 
-You can find me on [LinkedIn Hyperlink], [Social Media 1] or [Social Media 2].
+You can find me on [https://www.linkedin.com/](url) or [https://www.facebook.com/](url).
 ### Education
-**BSc in [Statistics]**  
+**BSc in Statistics**  
 Loyola University Maryland
 
 ### Projects
